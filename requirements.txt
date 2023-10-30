@@ -28,3 +28,5 @@ termcolor
 Werkzeug
 wrapt
 gunicorn
+
+-e .
